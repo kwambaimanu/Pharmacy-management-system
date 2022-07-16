@@ -2,5 +2,5 @@
     <div class="pull-right hidden-xs">
       <b>All rights reserved</b>
     </div>
-    <strong>Copyright &copy; 2021</strong>
+    <strong>© <?php echo date("Y"); ?> Copyright.</strong>
 </footer>
